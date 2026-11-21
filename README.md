@@ -51,4 +51,4 @@ I build backend systems with **ASP.NET Core** and **ABP Framework**, and cross-p
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/ahmed-arfat-86446b1a4) · [ahmedarfat209@gmail.com](mailto:ahmedarfat209@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/ahmed-arafat-86446b1a4) · [ahmedarfat209@gmail.com](mailto:ahmedarfat209@gmail.com)
