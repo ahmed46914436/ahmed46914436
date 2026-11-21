@@ -15,26 +15,27 @@ I build backend systems with **ASP.NET Core** and **ABP Framework**, and cross-p
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white)
 
 - **Backend:** ASP.NET Core Web API & MVC, ABP Framework (incl. ABP vNext), Entity Framework Core, SignalR, nopCommerce, SQL Server, Redis
-- **Architecture:** Clean Architecture, layered DDD, multi-tenancy, MVVM, Dependency Injection; basic microservices (Ocelot, RabbitMQ / MassTransit)
+- **Architecture:** Clean Architecture, layered DDD, multi-tenancy, MVVM, Dependency Injection
 - **Frontend:** Angular, ASP.NET MVC / Razor, jQuery, Bootstrap
 - **Mobile:** .NET MAUI (.NET 8 / 9), Xamarin.Forms, Android & iOS, Google Play & App Store publishing
 - **Payments:** Stripe, Moyasar, Tap, ZainCash, Mastercard Gateway, Paymob, KNET, Apple Pay, Google Pay, MyFatoorah, PayPal
-- **Integrations:** JWT / OpenIddict, OTP, Firebase Cloud Messaging, Zoom & Agora video, AWS S3, Twilio, Google Maps, PDF & Excel reporting
+- **Integrations:** JWT, OTP, Firebase Cloud Messaging, Zoom video, AWS S3, Twilio, Google Maps, PDF & Excel reporting
+- **Tools:** Git, TFS, Visual Studio
 
 ### Backend projects (team)
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| **Reco** | Telemedicine: bookings, instant consultations, prescriptions | ABP, .NET 9 · Moyasar, Agora video, S3 storage, SignalR |
-| **SYCura** | Multi-tenant healthcare booking with patient medical files | ABP vNext, .NET 10 · OpenIddict, OTP login |
+| **Reco** | Telemedicine: bookings, instant consultations, prescriptions | ABP, .NET 9 · Moyasar, S3 storage, SignalR |
+| **SYCura** | Multi-tenant healthcare booking with patient medical files | ABP vNext, .NET 10 · Angular admin, OTP login |
 | **Sehttna** | Healthcare marketplace: doctors, labs, pharmacies, home nursing | ABP, .NET 9 · Stripe, Zoom, SignalR chat, PDF generation |
-| **Q-Service** | Home-services marketplace with technician scheduling | .NET 8 microservices · Ocelot, RabbitMQ, Redis |
+| **CloudPOS** | Multi-tenant SaaS point of sale with inventory and delivery | ABP · SignalR, webhooks |
 | **Car Club** | Automobile federation portal: licences, customs documents, claims | ASP.NET Core 8 · Redis, Arabic PDFs, QR invoices |
 
 ### Mobile apps (built solo)
@@ -51,4 +52,4 @@ I build backend systems with **ASP.NET Core** and **ABP Framework**, and cross-p
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/ahmed-arafat-86446b1a4) · [ahmedarfat209@gmail.com](mailto:ahmedarfat209@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/ahmed-arfat-86446b1a4) · [ahmedarfat209@gmail.com](mailto:ahmedarfat209@gmail.com)
